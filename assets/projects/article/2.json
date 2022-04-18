@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "contentDE": "# Willkommen auf meiner Webseite / meinem Blog\n\nDiese Seite soll eine Kombination aus Portfolio und Blog darstellen. Der Plan ist es im Blog über Projekte und interessante Dingen, die ich finde zu schreiben.  \nUnter anderen auch mit dem Hintergrund als spätere Referenz für mich selbst und auch für andere, die nach den selben Themen suchen.  \n<br>\nZu Beginn sind Blogposts zum technischen Hintergrund dieser Seite geplant. Diese werden dann hier unter dem Projekt verlinkt werden.\n\n<br>\n\n## Links\n- [NGINX Frontend und Backend Routing](/blog/2)\n- [Angular Deployment mit NGINX](/blog/3)\n\n<br>\n\n## Technologien:\n- **Angular**  \n- **NestJS**  \n- **JavaScript**  \n- **TypeScript**  \n- **NGINX**  ",
+  "contentEN": "# Welkom on my Homepage / Blog\n\nThis page is intended to be a combination of a portfolio and a blog. The goal is to use the blog to write about my projects and interesting things I discover. It will serve as a reference for me but is also intended for everyone searching for the same topics.\n<br>\nAt first a few blogposts about the technical background of this webpage are planned. They will be linked below when available.\n\n<br>\n\n## Links\n- [NGINX frontend and backend routing](/blog/2)\n- [Angular Deployment with NGINX](/blog/3)\n\n<br>\n\n\n## Technologies:\n- **Angular**  \n- **NestJS**  \n- **JavaScript**  \n- **TypeScript**  \n- **NGINX**  ",
+  "descDE": "Persönliche Portfolio und Blog Webseite, geschrieben mit Angular und NestJS",
+  "descEN": "Personal portfolio and blog webpage, written with Angular and NestJS",
+  "date": "2020-08-28T00:00:00.700Z",
+  "tags": [
+    "Angular",
+    "JavaScript",
+    "TypeScript",
+    "NestJS",
+    "NodeJS",
+    "NGINX"
+  ],
+  "titleDE": "felixflesch.de",
+  "titleEN": "felixflesch.de"
+}
