@@ -1,0 +1,3 @@
+the email icons id from: https://material.io/resources/icons/
+
+The 144x144px version is placed in a 200x200px transparent image
