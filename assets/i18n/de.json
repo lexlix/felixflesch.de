@@ -6,45 +6,25 @@
         "line1": "Full Stack Web & Application Entwickler",
         "line2": "mit einer Liebe für Details"
       },
-      "projects": {
-        "title": "Projekte"
+      "checklists": {
+        "title": "Checklisten",
+        "subtitle": "Checklisten App",
+        "desc": "Mit der Checklisten App können wiederholbare Listen erstellt werden. Der Unterschied zu anderen ToDo Apps ist, dass die Einträge nach dem Abhaken nicht verschwinden. Die Listen können wiederverwendet werden. Diese Listen eignen sich besonders für Urlaubspacklisten, oder sich wiederholende Prozesse mit vielen einzelnen Schritten."
+      },
+      "channelsorter": {
+        "title": "FPV Video Channelsorter 5.8Ghz",
+        "subtitle": "FPV Kanal Management App",
+        "desc": "Die App hilft FPV Piloten beim zusammen fliegen die beste Frequenz für ihre Videobrille auszuwählen. Jedem Piloten wird eine Frequenz mit dem bestmöglichen Abstand zu anderen Piloten zugewiesen. Dadurch wird Störungen und möglichen Abstürzen durch Signalverlust vorgebeugt. Die App ist Open Source und auf  <b><a href=\"https://github.com/lexlix/FPV-Video-Channelsorter-5.8GHz\" target=\"_blank\">GitHub</a></b> verfügbar."
+      },
+      "bpmdetector": {
+        "title": "BPM Tapper",
+        "subtitle": "Musik Geschwindigkeitsmesser",
+        "desc": "Möchten Sie die Takte pro Minute eines Liedes wissen, den Sie hören? Laden Sie einfach die App herunter und tippen Sie im Takt auf den Bildschirm. Die App ist auch in jeder Hinsicht anpassbar, um sie so bunt zu gestalten, wie man möchten."
       },
       "blog": {
         "title": "Blog"
       },
-      "experience": {
-        "title": "Erfahrung",
-        "education": {
-          "title": "Ausbildung",
-          "angular": "3 Tage Intensivschulung bei Rohde & Schwarz",
-          "matse": "Mathematisch-technischer Softwareentwickler",
-          "informatik": "Informatik B.Sc."
-        },
-        "work": {
-          "title": "Arbeit",
-          "rwth": "Java, C#, LabVIEW Mess- & Steuersoftware Entwicklung",
-          "kisters": "Java Entwicklung",
-          "sinux": "Frontend, Backend Webtechnologien & Android App Entwicklung",
-          "lancom": "Java Backend & Angular Frontend Entwicklung",
-          "today": "Heute"
-        },
-        "skills": {
-          "title": "Technologien",
-          "since": "seit",
-          "languages": "Programmiersprachen",
-          "frameworks": "Frameworks",
-          "databases": "Datenbanken"
-        }
-      }
-    }
-  },
-  "projects": {
-    "title": "Projekte",
-    "list": {
-      "title": "Projektliste",
-      "warning": "Bitte mindestens 3 Buchstaben eingeben",
-      "error": "Keine Projekte gefunden",
-      "searchplaceholder": "Projekt suchen"
+      "more_info": "Mehr Informationen"
     }
   },
   "blog": {
@@ -54,6 +34,47 @@
       "warning": "Bitte mindestens 3 Buchstaben eingeben",
       "error": "Keine Projekte gefunden",
       "searchplaceholder": "Blogpost suchen"
+    }
+  },
+  "checklists": {
+    "title": "Checklisten",
+    "text1": "Erstelle Checklisten für wiederholende Aufgaben. Diese eignen sich perfekt für Packlisten, oder wiederkehrende Prozesse mit vielen einzelnen Schritten. Mit Checklisten vergisst man nie wieder einen wichtigen Schritt.",
+    "text2": "Füge beliebig viele Einträge zu einer Checkliste hinzu und hake diese ab. Dabei verschwinden diese aber nicht wie bei anderen ToDo Apps. Sortiere Listen nach Status der Einträge für eine bessere Übersicht und setzte Listen nach vollenden für das nächste Mal zurück.",
+    "text3": "Egal ob hell oder dunkel. Die Checklisten App kann sowohl in hell als auch im Dark mode verwendet werden.",
+    "text4": "Checklisten gibt, ist auch für das iPad verfügbar. Werden mehrere Geräte verwendet, werden alle Checklisten automatisch über die iCloud zwischen den Gräten synchronisiert.",
+    "privacyploicy": {
+      "title": "Checklisten - Datenschutzbestimmungen",
+      "1": "Checklisten sammelt KEINE Daten.",
+      "2": "Alle Daten werden in Ihrem persönlichen iCloud-Konto gespeichert.",
+      "3": "Niemand außer Ihnen hat Zugriff auf diese Daten.",
+      "4": "Ich habe diese App aus Spaß für mich selbst entwickelt und wollte sie mit der Welt teilen.",
+      "5": "Ich mag es nicht, wenn Apps meine Daten speichern, daher speichert Checklisten auch keine Daten.",
+      "6": ""
+    }
+  },
+  "channelsorter": {
+    "title": "FPV Video Channelsorter 5.8Ghz",
+    "text1": "Die Channelsorter App ist für FPV Piloten entwickelt, um die Frequenzbandaufteilung bei Flugtreffen zu vereinfachen. Die Kanäle verschiedener Hersteller sind nicht miteinander kompatibel und verwenden auch verschiedene Abstände. Channelsorter macht die Rechenarbeit, um schneller ans Fliegen zu kommen und Störungen und damit verbundene Abstürze zu vermeiden.",
+    "text2": "Ich habe mich dazu entschieden, die App als Open-Source-Projekt zu veröffentlichen, um allen die Möglichkeit zu geben, die App zu erweitern. Der Sourcecode ist auf GitHub verfügbar:",
+    "text3": "Die App unterstützt den 5.8Ghz Bereich sowohl für analoge Systeme als auch das digitale System von DJI. Beide Systeme werden so weit berücksichtigt, dass diese auch parallel betrieben werden können.",
+    "privacyploicy": {
+      "title": "FPV Video Channelsorter 5.8GHz - Datenschutzbestimmungen",
+      "1": "Die App sammelt und/oder übermittelt keine Daten.",
+      "2": "Die App wurde von FPV-Piloten für FPV-Piloten entwickelt.",
+      "3": "Ich mag es nicht, wenn Apps meine Daten speichern, daher speichert Checklisten auch keine Daten.",
+      "4": ""
+    }
+  },
+  "bpmdetector": {
+    "title": "BPM Tapper",
+    "text1": "Die BPM Tapper App ermöglicht es Ihnen, die Take pro Minute eines Liedes zu bestimmen. Tippen Sie einfach im Takt des Songs. Je länger Sie tippen, desto genauer wird das Ergebnis. Der Pfeil oben rechts setzt die App zurück, um von vorne beginnen zu können.",
+    "text2": "Der BPM Tapper ist kostenlos zu nutzen, jedoch ermöglicht ein kleiner In-App-Kauf, das Aussehen der App vollständig nach Ihren Wünschen anzupassen. Viel Spaß beim Verwenden und Anpassen der BPM Tapper App.",
+    "privacyploicy": {
+      "title": "BPM Tapper - Datenschutzbestimmungen",
+      "1": "BPM Tapper sammelt KEINE Daten.",
+      "2": "Ich habe diese App aus Spaß für mich selbst entwickelt und wollte sie mit der Welt teilen.",
+      "3": "Ich mag es nicht, wenn Apps meine Daten speichern, daher speichert BPM Tapper auch keine Daten.",
+      "4": ""
     }
   },
   "imprint": {

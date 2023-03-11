@@ -6,45 +6,25 @@
         "line1": "Full Stack Web & Application Developer",
         "line2": "with a love for details"
       },
-      "projects": {
-        "title": "Projects"
+      "checklists": {
+        "title": "Checklists",
+        "subtitle": "Checklist app",
+        "desc": "With Checklists you can create lists with repeating tasks. The difference to other ToDo apps is that an item does not disappear when it is completed. The lists can be reused. This is perfect for vacation packing lists, or other processes with repeating tasks."
+      },
+      "channelsorter": {
+        "title": "FPV Video Channelsorter 5.8Ghz",
+        "subtitle": "FPV channel management app",
+        "desc": "The app helps FPV pilots to select the best frequencies for their googles when flying together. Each pilot will be assigned a frequency with the best possible distance to other pilots. This cuts down on interference and possible crashes due to signal loss. The app is open source and available on <b><a href=\"https://github.com/lexlix/FPV-Video-Channelsorter-5.8GHz\" target=\"_blank\">GitHub</a></b>."
+      },
+      "bpmdetector": {
+        "title": "BPM detector",
+        "subtitle": "Song speed detector app",
+        "desc": "Want to know the Beats per minute of a song you are hearing? Just download the app and tap on your screen to the beat. The app is also customizable in every aspect to make it as colorful as you want."
       },
       "blog": {
         "title": "Blog"
       },
-      "experience": {
-        "title": "Experience",
-        "education": {
-          "title": "Education",
-          "angular": "3 Day intensive training at Rohde & Schwarz",
-          "matse": "Mathematical and Technical Software Developer",
-          "informatik": "Computer Science B.Sc."
-        },
-        "work": {
-          "title": "Work",
-          "rwth": "Java, C#, LabVIEW measuring and control software development",
-          "kisters": "Java development",
-          "sinux": "Frontend, Backend webtechnologies & Android App development",
-          "lancom": "Java Backend & Angular Frontend development",
-          "today": "Today"
-        },
-        "skills": {
-          "title": "Technologie Skills",
-          "since": "since",
-          "languages": "Programming languages",
-          "frameworks": "Frameworks",
-          "databases": "Databases"
-        }
-      }
-    }
-  },
-  "projects": {
-    "title": "Projects",
-    "list": {
-      "title": "Project List",
-      "warning": "Type at least 3 characters",
-      "error": "No Projects found",
-      "searchplaceholder": "Search Project"
+      "more_info": "More info"
     }
   },
   "blog": {
@@ -54,6 +34,47 @@
       "warning": "Type at least 3 characters",
       "error": "No Projects found",
       "searchplaceholder": "Search Blogpost"
+    }
+  },
+  "checklists": {
+    "title": "Checklists",
+    "text1": "Create checklists for repetitive tasks. These are perfect for packing lists or recurring processes with many individual steps. With checklists, you will never forget an important step again.",
+    "text2": "Add as many entries as you like to a checklist and tick them off. However, they do not disappear like in other to-do apps. Sort lists by the status of the entries for better overview, and reset lists after completion for the next time.",
+    "text3": "Whether light or dark. The checklist app can be used in both light and dark mode.",
+    "text4": "Checklists app is also available for the iPad. If multiple devices are used, all checklists are automatically synchronized via iCloud between the devices.",
+    "privacyploicy": {
+      "title": "Checklists - Privacy Policy",
+      "1": "Checklists does not collect ANY data.",
+      "2": "All data is saved in your personal iCloud account.",
+      "3": "No one but YOU can access this data.",
+      "4": "I developed this app for fun for myself and wanted to share it with the world.",
+      "5": "I don't like when stuff collects my data, so I also do not collect any data.",
+      "6": "Have a great day!"
+    }
+  },
+  "channelsorter": {
+    "title": "FPV Video Channelsorter 5.8Ghz",
+    "text1": "The Channelsorter app is designed for FPV pilots to simplify frequency band allocation at flight gatherings. The channel maps of different manufacturers are not compatible with each other and also use different spacing. Channelsorter does the calculation work to get to flying faster and avoid interference and associated crashes.",
+    "text2": "I decided to release the app as an open-source project to give everyone the opportunity to extend the app. The source code is available on GitHub:",
+    "text3": "The app supports the 5.8GHz range for both analog systems and DJI's digital system. Both systems are taken into account to the extent that they can be operated in parallel.",
+    "privacyploicy": {
+      "title": "FPV Video Channelsorter 5.8GHz - Privacy Policy",
+      "1": "The app does not collect and/or transmit any user data anywhere.",
+      "2": "It was just developed from FPV pilots for FPV pilots to use and have fun.",
+      "3": "I don't like when stuff collects my data so this app also does not collect any data.",
+      "4": "Have a great day!"
+    }
+  },
+  "bpmdetector": {
+    "title": "BPM detector",
+    "text1": "The BPM detector app allows you to determine the Beats per minutes of a song you are hearing. Just tap the button in the beat of the song. The longer you tap, the more accurate it gets. To start over, just tap the arrow at the top right.",
+    "text2": "BPM detector is free to use, but a small in-app purchase allows you to fully customize the app's appearance to your liking. Have fun using and customizing the BPM detector app.",
+    "privacyploicy": {
+      "title": "BPM detector - Privacy Policy",
+      "1": "BPM detector does not collect ANY data.",
+      "2": "I developed this app for fun for myself and wanted to share it with the world.",
+      "3": "I don't like when stuff collects my data so I also do not collect any data.",
+      "4": "Have a great day!"
     }
   },
   "imprint": {
