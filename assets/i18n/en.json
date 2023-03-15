@@ -62,7 +62,9 @@
       "1": "The app does not collect and/or transmit any user data anywhere.",
       "2": "It was just developed from FPV pilots for FPV pilots to use and have fun.",
       "3": "I don't like when stuff collects my data so this app also does not collect any data.",
-      "4": "Have a great day!"
+      "4": "Have a great day!",
+      "developer": "Developer:",
+      "contact": "Contact:"
     }
   },
   "bpmdetector": {

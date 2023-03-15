@@ -62,7 +62,9 @@
       "1": "Die App sammelt und/oder übermittelt keine Daten.",
       "2": "Die App wurde von FPV-Piloten für FPV-Piloten entwickelt.",
       "3": "Ich mag es nicht, wenn Apps meine Daten speichern, daher speichert Checklisten auch keine Daten.",
-      "4": ""
+      "4": "",
+      "developer": "Entwickler:",
+      "contact": "Kontakt:"
     }
   },
   "bpmdetector": {
