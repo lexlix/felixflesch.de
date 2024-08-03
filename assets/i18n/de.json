@@ -42,7 +42,11 @@
     "text2": "Füge beliebig viele Einträge zu einer Checkliste hinzu und hake diese ab. Dabei verschwinden diese aber nicht wie bei anderen ToDo Apps. Sortiere Listen nach Status der Einträge für eine bessere Übersicht und setzte Listen nach vollenden für das nächste Mal zurück.",
     "text3": "Egal ob hell oder dunkel. Die Checklisten App kann sowohl in hell als auch im Dark mode verwendet werden.",
     "text4": "Checklisten gibt, ist auch für das iPad verfügbar. Werden mehrere Geräte verwendet, werden alle Checklisten automatisch über die iCloud zwischen den Gräten synchronisiert.",
-    "privacyploicy": {
+    "footer": {
+      "faq": "FAQ",
+      "privacypolicy": "Datenschutzbestimmungen"
+    },
+    "privacypolicy": {
       "title": "Checklisten - Datenschutzbestimmungen",
       "1": "Checklisten sammelt KEINE Daten.",
       "2": "Alle Daten werden in Ihrem persönlichen iCloud-Konto gespeichert.",
@@ -57,7 +61,7 @@
     "text1": "Die Channelsorter App ist für FPV Piloten entwickelt, um die Frequenzbandaufteilung bei Flugtreffen zu vereinfachen. Die Kanäle verschiedener Hersteller sind nicht miteinander kompatibel und verwenden auch verschiedene Abstände. Channelsorter macht die Rechenarbeit, um schneller ans Fliegen zu kommen und Störungen und damit verbundene Abstürze zu vermeiden.",
     "text2": "Ich habe mich dazu entschieden, die App als Open-Source-Projekt zu veröffentlichen, um allen die Möglichkeit zu geben, die App zu erweitern. Der Sourcecode ist auf GitHub verfügbar:",
     "text3": "Die App unterstützt den 5.8Ghz Bereich sowohl für analoge Systeme als auch das digitale System von DJI. Beide Systeme werden so weit berücksichtigt, dass diese auch parallel betrieben werden können.",
-    "privacyploicy": {
+    "privacypolicy": {
       "title": "FPV Video Channelsorter 5.8GHz - Datenschutzbestimmungen",
       "1": "Die App sammelt und/oder übermittelt keine Daten.",
       "2": "Die App wurde von FPV-Piloten für FPV-Piloten entwickelt.",
@@ -71,7 +75,7 @@
     "title": "BPM Tapper",
     "text1": "Die BPM Tapper App ermöglicht es Ihnen, die Take pro Minute eines Liedes zu bestimmen. Tippen Sie einfach im Takt des Songs. Je länger Sie tippen, desto genauer wird das Ergebnis. Der Pfeil oben rechts setzt die App zurück, um von vorne beginnen zu können.",
     "text2": "Der BPM Tapper ist kostenlos zu nutzen, jedoch ermöglicht ein kleiner In-App-Kauf, das Aussehen der App vollständig nach Ihren Wünschen anzupassen. Viel Spaß beim Verwenden und Anpassen der BPM Tapper App.",
-    "privacyploicy": {
+    "privacypolicy": {
       "title": "BPM Tapper - Datenschutzbestimmungen",
       "1": "BPM Tapper sammelt KEINE Daten.",
       "2": "Ich habe diese App aus Spaß für mich selbst entwickelt und wollte sie mit der Welt teilen.",
