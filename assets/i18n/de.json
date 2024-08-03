@@ -46,6 +46,13 @@
       "faq": "FAQ",
       "privacypolicy": "Datenschutzbestimmungen"
     },
+    "faq": {
+      "title": "Checklisten - FAQ",
+      "1": {
+        "title": "Warum werden meine Listen nicht mit meinen anderen Geräten synchronisiert?",
+        "text": "Damit Checklisten zwischen Geräten synchronisiert werden, müssen zwei Bedingungen erfüllt sein:<br><br>• Beide Geräte verwenden dieselbe Apple ID.<br>• Hintergrundaktualisierung ist für die Checklisten-App aktiviert.<br><br>Die Einstellung für die Hintergrundaktualisierung wird benötigt, damit iOS die Synchronisierung im Hintergrund durchführen kann. Die Einstellung befindet sich in den Systemeinstellungen unter der Checklisten-App."
+      }
+    },
     "privacypolicy": {
       "title": "Checklisten - Datenschutzbestimmungen",
       "1": "Checklisten sammelt KEINE Daten.",
@@ -75,6 +82,10 @@
     "title": "BPM Tapper",
     "text1": "Die BPM Tapper App ermöglicht es Ihnen, die Take pro Minute eines Liedes zu bestimmen. Tippen Sie einfach im Takt des Songs. Je länger Sie tippen, desto genauer wird das Ergebnis. Der Pfeil oben rechts setzt die App zurück, um von vorne beginnen zu können.",
     "text2": "Der BPM Tapper ist kostenlos zu nutzen, jedoch ermöglicht ein kleiner In-App-Kauf, das Aussehen der App vollständig nach Ihren Wünschen anzupassen. Viel Spaß beim Verwenden und Anpassen der BPM Tapper App.",
+    "footer": {
+      "faq": "FAQ",
+      "privacypolicy": "Datenschutzbestimmungen"
+    },
     "privacypolicy": {
       "title": "BPM Tapper - Datenschutzbestimmungen",
       "1": "BPM Tapper sammelt KEINE Daten.",

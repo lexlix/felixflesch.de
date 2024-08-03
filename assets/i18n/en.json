@@ -46,6 +46,13 @@
       "faq": "FAQ",
       "privacypolicy": "Privacy Policy"
     },
+    "faq": {
+      "title": "Checklists - FAQ",
+      "1": {
+        "title": "Why are my lists not syncing to my other devices?",
+        "text": "To sync checklists between devices, two conditions must be met:<br><br>• Both devices must use the same Apple ID.<br>• Background App Refresh must be enabled for the Checklist app.<br><br>The Background App Refresh setting is required for iOS to perform synchronization in the background. The setting can be found in the System Settings under the Checklists app."
+      }
+    },
     "privacypolicy": {
       "title": "Checklists - Privacy Policy",
       "1": "Checklists does not collect ANY data.",
@@ -75,6 +82,10 @@
     "title": "BPM detector",
     "text1": "The BPM detector app allows you to determine the Beats per minutes of a song you are hearing. Just tap the button in the beat of the song. The longer you tap, the more accurate it gets. To start over, just tap the arrow at the top right.",
     "text2": "BPM detector is free to use, but a small in-app purchase allows you to fully customize the app's appearance to your liking. Have fun using and customizing the BPM detector app.",
+    "footer": {
+      "faq": "FAQ",
+      "privacypolicy": "Privacy Policy"
+    },
     "privacypolicy": {
       "title": "BPM detector - Privacy Policy",
       "1": "BPM detector does not collect ANY data.",
